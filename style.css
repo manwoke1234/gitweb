@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#top {
+    text-align: center;
+}
+
+#logo {
+    color: white;
+    background-color: rgb(186, 226, 8);
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 16px;
+}
+
+#logo-name {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 8px;
+}
+
+#navigation a {
+    color: blue;
+    padding: 8px;
+}
+
+#navigation a:hover {
+    color: red;
+}
+
+#image img {
+    width: 50;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto
+}
+
+#footer {
+    text-align: center;
+    padding: 20px;
+}
+
+#Werb {
+    color: rgb(81, 255, 0);
+    background-color: black;
+    text-align: center;
+}
